@@ -1,1 +1,1 @@
-# Fast-Food-McDonads-Project
+# Market Segmentation Analysis (Fast-Food-McDonads-Project)
