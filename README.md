@@ -1,1 +1,1 @@
-# Feynn Labs Intership [2024]
+# Feynn Labs Internship [2024]
